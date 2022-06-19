@@ -20,4 +20,4 @@ jobs:
     - name: update repo
       env:
         TOKEN: ${{ secrets.TOKEN }}
-      run: starred --username vedant-204 --repository starred --sort --token ${TOKEN} --message 'updated stars'
+      run: starred --username vedant-204 --repository my-awesome-stars --sort --token ${TOKEN} --message 'updated stars'
