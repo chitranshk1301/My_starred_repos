@@ -41,6 +41,7 @@
 
 ## C++ 
 
+- [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 - [gazebosim/gz-sim](https://github.com/gazebosim/gz-sim) - Open source robotics simulator. The latest version of Gazebo.
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [vaxerski/Hyprland](https://github.com/vaxerski/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
@@ -88,6 +89,7 @@
 
 ## JavaScript 
 
+- [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [umgbhalla/k8s-course](https://github.com/umgbhalla/k8s-course) - Project made for course on Kubernetes
 - [joellord/k8s-course](https://github.com/joellord/k8s-course) - Code for my Egghead  course on Kubernetes
@@ -122,6 +124,7 @@
 
 ## Others 
 
+- [vedant-204/my-awesome-stars](https://github.com/vedant-204/my-awesome-stars) - 
 - [jtleek/datasharing](https://github.com/jtleek/datasharing) - The Leek group guide to data sharing
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
@@ -169,6 +172,7 @@
 
 ## Rust 
 
+- [SerenityOS/jakt](https://github.com/SerenityOS/jakt) - The Jakt Programming Language
 - [Axect/Peroxide](https://github.com/Axect/Peroxide) - Rust numeric library with R, MATLAB & Python syntax
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -223,6 +227,7 @@
 
 ## Vue 
 
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [hxyro/frizzle](https://github.com/hxyro/frizzle) - Frizzle - A decentralized social media app
 
 ## Zig 
