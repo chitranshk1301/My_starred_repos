@@ -30,6 +30,7 @@
 
 ## C 
 
+- [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full docum
 - [AlphaTechnolog/dotfiles-v2](https://github.com/AlphaTechnolog/dotfiles-v2) - My new dotfiles
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform
 - [Lubin-Lenir/dotfiles](https://github.com/Lubin-Lenir/dotfiles) - 
