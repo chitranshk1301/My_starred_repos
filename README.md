@@ -38,7 +38,7 @@
 
 ## C# # 
 
-- [mxgmn/MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic PL based on pattern matching and constraint propagation, 148 examples
+- [mxgmn/MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic language based on pattern matching and constraint propagation, 153 examples
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 
 ## C++ 
@@ -47,7 +47,7 @@
 - [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 - [gazebosim/gz-sim](https://github.com/gazebosim/gz-sim) - Open source robotics simulator. The latest version of Gazebo.
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
-- [vaxerski/Hyprland](https://github.com/vaxerski/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [luliyucoordinate/Leetcode](https://github.com/luliyucoordinate/Leetcode) - Play Leetcode with different programming language
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 
