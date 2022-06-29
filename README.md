@@ -60,7 +60,6 @@
 - [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
 - [mountain-theme/Mountain](https://github.com/mountain-theme/Mountain) - Neutral. Calm.
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
-- [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 [WIP] A collection of personal configuration files for various rices I have made.
 - [FrenzyExists/dotfiles](https://github.com/FrenzyExists/dotfiles) - My chaotic dotfiles, it ain't much, but its honest work
 - [kshgrk/linux_dotfiles](https://github.com/kshgrk/linux_dotfiles) - 
 
@@ -71,6 +70,8 @@
 
 ## Go 
 
+- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [ory/kratos](https://github.com/ory/kratos) - Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recover
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -97,6 +98,7 @@
 
 ## JavaScript 
 
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [umgbhalla/k8s-course](https://github.com/umgbhalla/k8s-course) - Project made for course on Kubernetes
@@ -171,6 +173,7 @@
 - [noctuid/zscroll](https://github.com/noctuid/zscroll) - A text scroller for panels or terminals
 - [splunk/attack_data](https://github.com/splunk/attack_data) - A repository of curated datasets from various attacks
 - [pydata/xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets in Python
+- [pagankeymaster/vile](https://github.com/pagankeymaster/vile) - Widget configurations. EWW version 0.3.0
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [GideonWolfe/Chameleon](https://github.com/GideonWolfe/Chameleon) - 🦎 Theme your linux system to match any image
 - [py-why/dowhy](https://github.com/py-why/dowhy) - DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical 
@@ -221,13 +224,14 @@
 
 ## Shell 
 
+- [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [discourse/discourse_docker](https://github.com/discourse/discourse_docker) - A Docker image for Discourse
 - [vedant-204/dotfiles_stow](https://github.com/vedant-204/dotfiles_stow) - Repo contains dotfiles of my arch linux
 - [Deathemonic/SweetDots](https://github.com/Deathemonic/SweetDots) - A pastel themed rice 🍚
 - [CodigoCristo/arcris](https://github.com/CodigoCristo/arcris) - Un instalador fácil para Arch Linux  &&  An easy installer for Arch Linux
-- [pagankeymaster/vile](https://github.com/pagankeymaster/vile) - Widget configurations. EWW version 0.3.0
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
 - [chitranshk1301/polybar-themes](https://github.com/chitranshk1301/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
+- [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 [WIP] A collection of personal configuration files for various rices I have made.
 - [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
 - [donovanglover/dotfiles](https://github.com/donovanglover/dotfiles) - My dotfiles for vim, fish, bspwm, and more. Includes full support for HiDPI.
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
@@ -246,6 +250,7 @@
 
 ## TypeScript 
 
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
