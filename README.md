@@ -231,7 +231,7 @@
 - [CodigoCristo/arcris](https://github.com/CodigoCristo/arcris) - Un instalador fácil para Arch Linux  &&  An easy installer for Arch Linux
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
 - [chitranshk1301/polybar-themes](https://github.com/chitranshk1301/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
-- [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 [WIP] A collection of personal configuration files for various rices I have made.
+- [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
 - [donovanglover/dotfiles](https://github.com/donovanglover/dotfiles) - My dotfiles for vim, fish, bspwm, and more. Includes full support for HiDPI.
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets
