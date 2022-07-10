@@ -175,6 +175,7 @@
 
 ## Python 
 
+- [sensity-ai/dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [NVlabs/eg3d](https://github.com/NVlabs/eg3d) - 
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
