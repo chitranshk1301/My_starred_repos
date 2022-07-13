@@ -107,6 +107,7 @@
 
 ## JavaScript 
 
+- [microsoft/devops-project-samples](https://github.com/microsoft/devops-project-samples) - Sample applications for Azure DevOps Project
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
@@ -283,7 +284,7 @@
 ## TypeScript 
 
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Initialize apps of any size with &lt; 1kb JS
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Initialize apps of any size with ~ 1kb JS
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - Quickest way to start a new web app with full stack typesafety
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
