@@ -214,7 +214,6 @@
 - [noctuid/zscroll](https://github.com/noctuid/zscroll) - A text scroller for panels or terminals
 - [splunk/attack_data](https://github.com/splunk/attack_data) - A repository of curated datasets from various attacks
 - [pydata/xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets in Python
-- [pagankeymaster/vile](https://github.com/pagankeymaster/vile) - Widget configurations. EWW version 0.3.0
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [GideonWolfe/Chameleon](https://github.com/GideonWolfe/Chameleon) - 🦎 Theme your linux system to match any image
 - [py-why/dowhy](https://github.com/py-why/dowhy) - DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical 
@@ -262,6 +261,7 @@
 
 ## SCSS 
 
+- [pagankeymaster/vile](https://github.com/pagankeymaster/vile) - Widget configurations. EWW version 0.3.0
 - [phocus/gtk](https://github.com/phocus/gtk) - From scratch, clean and opinionated GTK3 implementation of the phocus color scheme.
 - [saimoomedits/eww-widgets](https://github.com/saimoomedits/eww-widgets) - my eww widgets!
 
@@ -275,7 +275,7 @@
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [discourse/discourse_docker](https://github.com/discourse/discourse_docker) - A Docker image for Discourse
 - [vedant-204/dotfiles_stow](https://github.com/vedant-204/dotfiles_stow) - Repo contains dotfiles of my arch linux
-- [Deathemonic/SweetDots](https://github.com/Deathemonic/SweetDots) - A pastel themed rice 🍚
+- [Deathemonic/SweetDots](https://github.com/Deathemonic/SweetDots) - A sweetpastel themed rice 🍚
 - [CodigoCristo/arcris](https://github.com/CodigoCristo/arcris) - Un instalador fácil para Arch Linux  &&  An easy installer for Arch Linux
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
 - [chitranshk1301/polybar-themes](https://github.com/chitranshk1301/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
