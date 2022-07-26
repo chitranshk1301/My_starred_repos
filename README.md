@@ -224,7 +224,7 @@
 - [noctuid/zscroll](https://github.com/noctuid/zscroll) - A text scroller for panels or terminals
 - [splunk/attack_data](https://github.com/splunk/attack_data) - A repository of curated datasets from various attacks
 - [pydata/xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets in Python
-- [pagankeymaster/vile](https://github.com/pagankeymaster/vile) - Widget configurations. EWW version 0.3.0
+- [dharmx/vile](https://github.com/dharmx/vile) - Widget configurations. EWW version 0.3.0
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [GideonWolfe/Chameleon](https://github.com/GideonWolfe/Chameleon) - 🦎 Theme your linux system to match any image
 - [py-why/dowhy](https://github.com/py-why/dowhy) - DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical 
