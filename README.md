@@ -242,6 +242,7 @@
 
 ## Ruby 
 
+- [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 
 ## Rust 
