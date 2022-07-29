@@ -55,6 +55,7 @@
 - [apache/doris](https://github.com/apache/doris) - Apache Doris is an MPP-based interactive SQL data warehousing for reporting and analysis.
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
+- [SerenityOS/jakt](https://github.com/SerenityOS/jakt) - The Jakt Programming Language
 - [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 - [gazebosim/gz-sim](https://github.com/gazebosim/gz-sim) - Open source robotics simulator. The latest version of Gazebo.
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -78,6 +79,7 @@
 
 ## Go 
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections.
 - [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka.
@@ -252,7 +254,6 @@
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust | Python | Node.js
 - [mmastrac/rust-ctor](https://github.com/mmastrac/rust-ctor) - Module initialization/global constructor functions for Rust
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-- [SerenityOS/jakt](https://github.com/SerenityOS/jakt) - The Jakt Programming Language
 - [Axect/Peroxide](https://github.com/Axect/Peroxide) - Rust numeric library with R, MATLAB & Python syntax
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
