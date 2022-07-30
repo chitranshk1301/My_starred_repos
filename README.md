@@ -65,7 +65,7 @@
 
 ## CSS 
 
-- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s developer docs.
+- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation
 - [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
 - [mountain-theme/Mountain](https://github.com/mountain-theme/Mountain) - Neutral. Calm.
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
@@ -286,7 +286,6 @@
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [discourse/discourse_docker](https://github.com/discourse/discourse_docker) - A Docker image for Discourse
-- [vedant-204/dotfiles_stow](https://github.com/vedant-204/dotfiles_stow) - Repo contains dotfiles of my arch linux
 - [Deathemonic/SweetDots](https://github.com/Deathemonic/SweetDots) - A sweetpastel themed rice 🍚
 - [CodigoCristo/arcris](https://github.com/CodigoCristo/arcris) - Un instalador fácil para Arch Linux  &&  An easy installer for Arch Linux
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
@@ -339,6 +338,7 @@
 
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
+- [vedant-204/dotfiles_stow](https://github.com/vedant-204/dotfiles_stow) - Repo contains dotfiles of my arch linux
 
 ## Vue 
 
