@@ -52,7 +52,7 @@
 ## C++ 
 
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is an MPP-based interactive SQL data warehousing for reporting and analysis.
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high-performance and unified analytical database. It compatible with MySQL protocol, and using standard SQL. It has extremely fast performance in low-latency and high-t
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [SerenityOS/jakt](https://github.com/SerenityOS/jakt) - The Jakt Programming Language
@@ -166,6 +166,7 @@
 
 ## Others 
 
+- [vedant-204/sleepis](https://github.com/vedant-204/sleepis) - 
 - [UgurcanAkkok/AreWeRustYet](https://github.com/UgurcanAkkok/AreWeRustYet) - Awesome list of "Are We *thing* Yet" for Rust
 - [martinshkreli/models](https://github.com/martinshkreli/models) - stock market models - have fun
 - [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
@@ -177,7 +178,6 @@
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [daffainfo/AllAboutBugBounty](https://github.com/daffainfo/AllAboutBugBounty) - All about bug bounty (bypasses, payloads, and etc)
-- [vedant-204/sleepis](https://github.com/vedant-204/sleepis) - 
 - [vedant-204/my-awesome-stars](https://github.com/vedant-204/my-awesome-stars) - 
 - [jtleek/datasharing](https://github.com/jtleek/datasharing) - The Leek group guide to data sharing
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -213,7 +213,7 @@
 - [itsnebulalol/permasigner](https://github.com/itsnebulalol/permasigner) - 🖊 Permanently signs IPAs on jailbroken iDevices (persists on stock).
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The most intuitive, flexible, way for researchers, ML engineers and data scientists to build models (with PyTorch) and ML systems for the ML lifecycle with an obsessive focus on flexibility and perfor
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The most intuitive, flexible, way for researchers, ML engineers and data scientists to build models (with PyTorch), research workflows and production pipelines with an obsessive focus on flexibility a
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
@@ -289,7 +289,6 @@
 - [Deathemonic/SweetDots](https://github.com/Deathemonic/SweetDots) - A sweetpastel themed rice 🍚
 - [CodigoCristo/arcris](https://github.com/CodigoCristo/arcris) - Un instalador fácil para Arch Linux  &&  An easy installer for Arch Linux
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
-- [chitranshk1301/polybar-themes](https://github.com/chitranshk1301/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
 - [donovanglover/dotfiles](https://github.com/donovanglover/dotfiles) - My dotfiles for vim, fish, bspwm, and more. Includes full support for HiDPI.
