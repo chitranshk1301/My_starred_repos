@@ -52,7 +52,7 @@
 ## C++ 
 
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high-performance and unified analytical database. It compatible with MySQL protocol, and using standard SQL. It has extremely fast performance in low-latency and high-t
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database.
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [SerenityOS/jakt](https://github.com/SerenityOS/jakt) - The Jakt Programming Language
