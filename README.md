@@ -166,6 +166,7 @@
 
 ## Others 
 
+- [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [vedant-204/sleepis](https://github.com/vedant-204/sleepis) - 
 - [UgurcanAkkok/AreWeRustYet](https://github.com/UgurcanAkkok/AreWeRustYet) - Awesome list of "Are We *thing* Yet" for Rust
 - [martinshkreli/models](https://github.com/martinshkreli/models) - stock market models - have fun
