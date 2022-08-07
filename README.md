@@ -40,7 +40,6 @@
 
 - [pijulius/picom](https://github.com/pijulius/picom) - A lightweight compositor for X11
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full docum
-- [AlphaTechnolog/dotfiles-v2](https://github.com/AlphaTechnolog/dotfiles-v2) - My new dotfiles
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform
 - [Lubin-Lenir/dotfiles](https://github.com/Lubin-Lenir/dotfiles) - 
 
@@ -104,6 +103,7 @@
 
 ## HTML 
 
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [balena-io/docs](https://github.com/balena-io/docs) - Documentation for the balenaCloud platform.
 - [unixporn/unixporn.github.io](https://github.com/unixporn/unixporn.github.io) - The web portal
 
@@ -154,7 +154,8 @@
 
 ## Lua 
 
-- [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles) - My awesomewm dotfiles for awesome people! ✨
+- [rxyhn/yoru](https://github.com/rxyhn/yoru) - 夜 - Yoru | Aesthetic and Beautiful Awesome  Environment :first_quarter_moon:
+- [AlphaTechnolog/dotfiles](https://github.com/AlphaTechnolog/dotfiles) - My new dotfiles
 - [BlingCorp/bling](https://github.com/BlingCorp/bling) - Utilities for the awesome window manager
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [adwinying/dotfiles](https://github.com/adwinying/dotfiles) - dotfiles for the command line home
