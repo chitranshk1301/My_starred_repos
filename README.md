@@ -118,6 +118,7 @@
 
 ## JavaScript 
 
+- [soumyajit4419/Portfolio](https://github.com/soumyajit4419/Portfolio) - My self coded personal website build with React.js
 - [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [dbserver/startdb-2022](https://github.com/dbserver/startdb-2022) - Repositório contendo o desafio para seleção do StartDB 2022.
