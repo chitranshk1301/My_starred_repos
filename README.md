@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [AutoHotkey](#autohotkey)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -36,6 +37,10 @@
 - [Vue](#vue)
 - [Zig](#zig)
 
+## AutoHotkey 
+
+- [Xeo786/Rufaydium-Webdriver](https://github.com/Xeo786/Rufaydium-Webdriver) - Rufaydium is a WebDriver Library for AutoHotkey to support any Chromium based browser using WebDriver, it will downlaod latest driver and update driver according to webbrowsers version
+
 ## C 
 
 - [pijulius/picom](https://github.com/pijulius/picom) - A lightweight compositor for X11
@@ -64,6 +69,7 @@
 
 ## CSS 
 
+- [AliDenno/node.js-mini-projects](https://github.com/AliDenno/node.js-mini-projects) - 
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation
 - [elkowar/dots-of-war](https://github.com/elkowar/dots-of-war) - My dotfiles, mostly. This is the wild west. don't expect to understand this mess. Don't try to understand this mess. This serves as a good way to backup my configs, nothing more.
 - [mountain-theme/Mountain](https://github.com/mountain-theme/Mountain) - Neutral. Calm.
@@ -207,6 +213,9 @@
 
 ## Python 
 
+- [ghanteyyy/nppy](https://github.com/ghanteyyy/nppy) - Collections of python projects
+- [qxresearch/qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - 10+ Python Application 🦾 | 10- lines of code 👽
+- [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [sensity-ai/dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
