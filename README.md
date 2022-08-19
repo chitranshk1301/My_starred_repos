@@ -299,7 +299,7 @@
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [discourse/discourse_docker](https://github.com/discourse/discourse_docker) - A Docker image for Discourse
-- [Deathemonic/SweetDots](https://github.com/Deathemonic/SweetDots) - A sweetpastel themed rice 🍚
+- [Deathemonic/SweetDots](https://github.com/Deathemonic/SweetDots) - Rice 🍚 Themed with SweetPastel
 - [CodigoCristo/arcris](https://github.com/CodigoCristo/arcris) - Un instalador fácil para Arch Linux  &&  An easy installer for Arch Linux
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
 - [eoli3n/dotfiles](https://github.com/eoli3n/dotfiles) - Sway acid dark
