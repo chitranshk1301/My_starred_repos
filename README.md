@@ -174,6 +174,7 @@
 
 ## Others 
 
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [vedant-204/sleepis](https://github.com/vedant-204/sleepis) - 
 - [UgurcanAkkok/AreWeRustYet](https://github.com/UgurcanAkkok/AreWeRustYet) - Awesome list of "Are We *thing* Yet" for Rust
